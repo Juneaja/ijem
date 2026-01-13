@@ -1,6 +1,6 @@
 # Zefoy - Free TikTok Views Automation
 
-![Zefoy](https://github.com/user-attachments/assets/754c009b-0c86-49eb-9c3e-9cb29d61ed1d)
+![Zefoy](https://github.com/user-attachments/assets/#)
 
 **Zefoy** is a powerful tool that enhances your TikTok views effortlessly through the Termux application. By leveraging the services of [zefoy.com](https://zefoy.com), Zefoy enables you to rapidly and efficiently boost your TikTok view count, making it easier to increase your video visibility.
 
