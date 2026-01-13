@@ -35,9 +35,8 @@ Ensure your TikTok account is public and use a valid video link (e.g., `https://
 
 If you find Zefoy helpful and want to support further development, consider contributing through the following links:
 
-- Trakteer: [Support via Trakteer](https://trakteer.id/rozhak_official/tip)
-- PayPal: [Donate via PayPal](https://paypal.me/rozhak9)
-- Saweria: [Support via Saweria](https://saweria.co/rozhak9)
+Please support us so we can grow
+- Saweria: [Support via Saweria](https://saweria.co/Ngodingasik)
 
 ## Warning
 
