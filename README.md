@@ -23,9 +23,6 @@ $ pip install -r requirements.txt
 $ python Run.py
 ```
 
-## Screenshot
-
-![FunPic_20240807](https://github.com/user-attachments/assets/ebb453f3-c2df-4014-acff-df9c33da5d05)
 
 ## Troubleshooting
 
